@@ -1,0 +1,14 @@
+onset	duration	rt	response	acc	type
+0	n/a	n/a	n/a	n/a	dummy
+2	n/a	n/a	n/a	n/a	dummy
+3.999	n/a	n/a	n/a	n/a	dummy
+6.664	19.4	1116	mental	1	mental
+29.042	15.0	n/a	n/a	n/a	fix
+44.023	20.0	1982	notsure	0	mental
+67.054	15.0	n/a	n/a	n/a	fix
+82.035	20.0	649	random	1	random
+105.066	15.0	n/a	n/a	n/a	fix
+120.047	20.0	808	mental	1	mental
+143.078	15.0	n/a	n/a	n/a	fix
+158.058	20.0	672	random	1	random
+181.089	15.0	n/a	n/a	n/a	fix
